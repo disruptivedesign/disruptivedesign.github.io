@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.imager{
+	width: 100%;
+	
+}
+
+.imagefloat { 
+	float:right;
+	max-width: 50%;
+	min-width: 400px;
+	
+}
+
+
+
+.textfloat { 
+	float:left;
+	max-width: 50%;
+}
